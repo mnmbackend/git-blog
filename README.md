@@ -4,7 +4,7 @@ I write about non-technical stuff in the technical world.
 
 * [All articles](./index.md)
 * [Contributing](./CONTRIBUTING.md)
-* [Discussions](https://github.com/idywahhid/git-blog/discussions)
+* [Discussions](https://github.com/mnmbackend/git-blog/discussions)
 
 ---
 
