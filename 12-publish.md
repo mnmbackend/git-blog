@@ -16,12 +16,4 @@ Ko'plab mas'uliyatli va intiluvchan insonlar bilmasdan bir xatoga yo'l qo'yadila
 
 ---
 
-<details>
-<summary><i>Info</i></summary>
-
-* **Muallif:** idywahhid
-* **Sana:** 19-sentabr, 2026-yil
-* **O'qish vaqti:** 3-5 daqiqa
-</details>
-
 [<- Previous page](./11-publish.md) | [Home page](./index.md) | [Next page ->](./13-publish.md)
