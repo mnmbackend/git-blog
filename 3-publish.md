@@ -15,13 +15,4 @@ Ilim olish — inson komilligi, ma'naviy yuksalishi va har qanday jamiyatning ke
 > **Xulosa:** Ilim olish — bu vaqtincha bosqich yoki shunchaki zaruriyat emas, balki insonga hayot bo'yi hamrohlik qiladigan va nurli kelajakka yetaklaydigan uzluksiz yo'ldir.
 
 ---
-
-<details>
-<summary><i>Info</i></summary>
-
-* **Muallif:** idywahhid
-* **Sana:** 10-sentabr, 2026-yil
-* **O'qish vaqti:** 3-5 daqiqa
-</details>
-
 [<- Previous page](./2-publish.md) | [Home page](./index.md) | [Next page ->](./4-publish.md)
