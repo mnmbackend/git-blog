@@ -26,7 +26,7 @@ Bu loyiha Markdown fayllar asosida qurilgan va GitHub orqali shunchaki statik sa
 ## Fayllar tuzilmasi
 
 - `index.md` — asosiy sahifa va maqolalar ro'yxati
-- `*-publish.md` — maqolalar fayllari
+- `-publish.md` — maqolalar fayllari
 - `CONTRIBUTING.md` — hissa qo'shish bo'yicha ko'rsatmalar
 - `LICENSE.md` — litsenziya
 - `README.md` — loyiha haqida qisqacha ma'lumot
