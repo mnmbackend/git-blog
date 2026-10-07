@@ -15,13 +15,4 @@ Doimiylik va intizom — shaxsiy rivojlanish hamda har qanday sohada uzoq muddat
 > **Xulosa:** Doimiylik — bu bir kunlik shiddat yoki vaqtincha ishtiyoq emas, balki har kuni davom etadigan mas'uliyatli va sabrli mehnat yo'lidir.
 
 ---
-
-<details>
-<summary><i>Info</i></summary>
-
-* **Muallif:** idywahhid
-* **Sana:** 9-sentabr, 2026-yil
-* **O'qish vaqti:** 3-5 daqiqa
-</details>
-
 [<- Previous page](./1-publish.md) | [Home page](./index.md) | [Next page ->](./3-publish.md)
