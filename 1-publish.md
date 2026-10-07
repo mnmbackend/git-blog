@@ -16,12 +16,5 @@ Qiyinchiliklar va yangi vazifalarni muvaffaqiyatli bajarish insonning o'ziga bo'
 > **Xulosa:** O'zini sinash — bu shunchaki tavakkalchilik emas, balki shaxsiy o'sish va uzluksiz rivojlanish yo'lidagi zaruriy bosqichdir.
 
 ---
-<details>
-<summary><i>Info</i></summary>
-
-* **Mualif:** mnmbackend
-* **Sana:** 8-sentabr, 2026-yil
-* **O'qish vaqti:** 3-5 daqiqa
-</details>
 
 [Home page](./index.md) | [Next page ->](./2-publish.md)
