@@ -19,12 +19,4 @@ Ko'pchilik biznesdagi va hayotdagi eng katta muvaffaqiyat faqat mutlaqo yangi, n
 
 ---
 
-<details>
-<summary><i>Info</i></summary>
-
-* **Muallif:** idywahhid
-* **Sana:** 18-sentabr, 2026-yil
-* **O'qish vaqti:** 5-8 daqiqa
-</details>
-
 [<- Previous page](./10-publish.md) | [Home page](./index.md) | [Next page ->](./12-publish.md)
