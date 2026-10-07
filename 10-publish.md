@@ -15,13 +15,4 @@ Hayotda yangi marralarga erishish, o'z potensialini kashf etish va shaxsiy rivoj
 > **Xulosa:** Sinab ko'rmagan kishi hech qachon mag'lub bo'lmaydi, lekin hech qachon g'alaba ham qozonolmaydi. Imkoniyat yo'q deb nolishdan ko'ra, bor imkoniyatni sinab ko'rish eng to'g'ri yo'ldir.
 
 ---
-
-<details>
-<summary><i>Info</i></summary>
-
-* **Muallif:** idywahhid
-* **Sana:** 17-sentabr, 2026-yil
-* **O'qish vaqti:** 3-5 daqiqa
-</details>
-
 [<- Previous page](./9-publish.md) | [Home page](./index.md) | [Next page ->](./11-publish.md)
