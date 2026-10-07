@@ -16,12 +16,5 @@ Ko'p insonlar doimiy bandlikni va doimiy harakatda bo'lishni samaradorlik (*prod
 
 ---
 
-<details>
-<summary><i>Info</i></summary>
-
-* **Muallif:** idywahhid
-* **Sana:** 4-oktyabr, 2026-yil
-* **O'qish vaqti:** 3-5 daqiqa
-</details>
 
 [<- Previous page](./13-publish.md) | [Home page](./index.md) | [Next page ->](./15-publish.md)
