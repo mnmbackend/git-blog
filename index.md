@@ -26,11 +26,11 @@ I write about non-technical stuff in the technical world.
 
 ## Feedback
 
-Have questions or thoughts? Open a discussion [here](https://github.com/idywahhid/git-blog/discussions).
+Have questions or thoughts? Open a discussion [here](https://github.com/mnmbackend/git-blog/discussions).
 
 Want to contribute? Read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
-Author: [@idywahhid](https://github.com/idywahhid)  
+Author: [@mnmbackend](https://github.com/mnmbackend)  
 License: [CC BY 4.0](./LICENSE.md)
